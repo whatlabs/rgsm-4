@@ -1,0 +1,6 @@
+[submodule "rgsm-5"]
+	path = rgsm-5
+	url = git@github.com:whatlabs/rgsm-5.git
+[submodule "rgsm-6"]
+	path = rgsm-6
+	url = git@github.com:whatlabs/rgsm-6.git
